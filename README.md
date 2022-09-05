@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+## Command for creating a React App using TypeScript template
+npx create-react-app appname --template typeScript
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
